@@ -1,0 +1,67 @@
+!doctype html>
+<html>
+<head>
+<style>
+table, th, td {
+ border: 1px solid blue;
+ background-color: orange;
+ }
+ </style>
+ </head>
+ <body>
+ 
+ <h1 style="color: blue;">FAROOK COLLEGE</h1>
+ <h2>Dept.of Computer Science</h2>
+ <h3 style="color: red;">Timetable</h3>
+ <table style="width:100%">
+ <tr>
+ <th></th>
+ <th>1st</th>
+ <th>2nd</th>
+ <th>3rd</th>
+ <th>4th</th>
+ <th>5th</th>
+ </tr>
+ <tr>
+  <td>Mon</td>
+  <td>CS</td>
+  <td>CS</td>
+  <td>Maths</td>
+  <td>Phy</td>
+  <td>CS</td>
+  </tr>
+  <tr>
+  <td>Tue</td>
+  <td>CS</td>
+  <td>Phy</td>
+  <td>Math</td>
+  <td>Phy lab</td>
+  <td>Phy lab</td>
+  </tr>
+  <tr>
+  <td>Wed</td>
+  <td>CS</td>
+  <td>CS</td>
+  <td>CS</td>
+  <td>CS</td>
+  <td>CS</td>
+  </tr>
+  <tr>
+  <td>Thu</td>
+  <td>Math</td>
+  <td>CS</td>
+  <td>CS</td>
+  <td>CS</td>
+  <td>CS</td>
+  </tr>
+  <tr>
+  <td>Fri</td>
+  <td>Math</td>
+  <td>Math</td>
+  <td>Phy</td>
+  <td>CS</td>
+  <td>CS</td>
+  </tr>
+  </table>
+  </body>
+  </html>
